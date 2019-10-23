@@ -44,6 +44,7 @@ section h1, footer h1, nav a
     font-family: Dayrom, serif;
     font-weight: normal;
     text-transform: uppercase;
+    color:red;
 }
 
 /* Header */
